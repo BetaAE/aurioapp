@@ -1,10 +1,9 @@
 # 📜 AURIO App License Agreement (Strict Usage License)
 
-**Last Updated: June 2025**  
+**Last Updated:** June 2025  
 **Product:** AURIO App  
-**Author:** BetaAE (Beta Automate Evolvent)
-
-
+**Author:** BetaAE (Beta Automate Evolvent)  
+**Developer:** Abdul Mueed
 
 ---
 
@@ -24,7 +23,7 @@ You are **not** allowed to:
 
 ## 🔒 Ownership
 
-All rights, trademarks, design, and code of the AURIO App belong to **BetaAE**.  
+All rights, trademarks, design, and code of the AURIO App belong to **BetaAE** and its **developer Abdul Mueed**.  
 You are **not purchasing ownership**, only using it under a strict license.
 
 ---
