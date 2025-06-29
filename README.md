@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/jhelumcorp/gyawun/main/cover.png" width="100%" />
+   <img src="./cover.png" width="100%" />
 </p>
 
 <div align="center">
