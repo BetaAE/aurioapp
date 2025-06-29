@@ -9,10 +9,10 @@
 <div align="center">
 <h1>Aurio Music</h1>
   
-    <a href="https://github.com/betaae/aurio/releases/latest"><img src="https://img.shields.io/github/v/release/betaae/aurioapp?style=flat" alt="Latest release" /></a>
+    <a href="https://github.com/betaae/aurio/releases/latest"><img src="https://img.shields.io/github/betaae/release/betaae/aurioapp?style=flat" alt="Latest release" /></a>
     <a href="https://github.com/betaae/aurio/commits"><img src="https://img.shields.io/github/commits-since/betaae/aurioapp/latest?style=flat" alt="Commits since latest release" /></a>
-    <a href="https://github.com/betaae/aurio/commits"><img src="https://img.shields.io/github/commit-activity/m/sheikhhaziq/gyawun?color=g" alt="Commits per month" /></a>
-    <a href="https://github.com/betaae/aurio/releases/latest"><img src="https://img.shields.io/github/release-date/sheikhhaziq/gyawun" alt="Last release" /></a>
+    <a href="https://github.com/betaae/aurio/commits"><img src="https://img.shields.io/github/commit-activity/m/betaae/aurioapp?color=g" alt="Commits per month" /></a>
+    <a href="https://github.com/betaae/aurio/releases/latest"><img src="https://img.shields.io/github/release-date/betaae/aurioapp" alt="Last release" /></a>
 
   >
 </div>
