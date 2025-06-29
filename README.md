@@ -53,7 +53,7 @@ Please make sure to update tests as appropriate.
 ## 👩‍💻👨‍💻 Our valuable Contributors
 
 
-  <img src="https://contributors-img.web.app/image?repo=sheikhhaziq/gyawun" />
+ 
 </a></p>
 
 ## Disclaimer
