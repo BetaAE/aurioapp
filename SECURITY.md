@@ -17,7 +17,7 @@ If you discover a security vulnerability in **AurioApp**, **please DO NOT** crea
 
 Instead, report it **privately** by emailing us at:
 
-**📧 beta.ae.security@gmail.com**
+**📧 beta.ae.dev@gmail.com**
 
 Please include:
 - A clear description of the vulnerability.
