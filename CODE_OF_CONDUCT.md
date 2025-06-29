@@ -32,7 +32,7 @@ These actions **will not be tolerated**:
 
 If someone breaks the rules, or makes you feel unsafe:
 
-📧 Email: `beta.ae.security@gmail.com`  
+📧 Email: `beta.ae.dev@gmail.com`  
 Your report will be handled discreetly and seriously.
 
 ---
