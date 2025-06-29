@@ -47,7 +47,7 @@ Tampering or bypassing protection mechanisms is strictly prohibited.
 ## 📩 Contact
 
 For permissions, legal use, or collaboration requests:  
-📧 bbeta.ae.dev@gmail.com
+📧 beta.ae.dev@gmail.com
 
 ---
 
