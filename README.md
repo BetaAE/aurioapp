@@ -8,7 +8,7 @@
 
 <div align="center">
 <h1>Aurio Music</h1>
-  <img src="https://hits.dwyl.com/jhelumcorp/gyawun.svg?style=flat-square" />
+  
     <a href="https://github.com/betaae/aurio/releases/latest"><img src="https://img.shields.io/github/v/release/sheikhhaziq/gyawun?style=flat" alt="Latest release" /></a>
     <a href="https://github.com/betaae/aurio/commits"><img src="https://img.shields.io/github/commits-since/sheikhhaziq/gyawun/latest?style=flat" alt="Commits since latest release" /></a>
     <a href="https://github.com/betaae/aurio/commits"><img src="https://img.shields.io/github/commit-activity/m/sheikhhaziq/gyawun?color=g" alt="Commits per month" /></a>
@@ -52,7 +52,7 @@ Please make sure to update tests as appropriate.
 
 ## 👩‍💻👨‍💻 Our valuable Contributors
 
-<p align="center"><a href="https://github.com/sheikhhaziq/gyawun/graphs/contributors">
+
   <img src="https://contributors-img.web.app/image?repo=sheikhhaziq/gyawun" />
 </a></p>
 
