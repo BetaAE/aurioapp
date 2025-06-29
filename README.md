@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-<h1>Gyawun Music</h1>
+<h1>Aurio Music</h1>
   <img src="https://hits.dwyl.com/jhelumcorp/gyawun.svg?style=flat-square" />
     <a href="https://github.com/betaae/aurio/releases/latest"><img src="https://img.shields.io/github/v/release/sheikhhaziq/gyawun?style=flat" alt="Latest release" /></a>
     <a href="https://github.com/betaae/aurio/commits"><img src="https://img.shields.io/github/commits-since/sheikhhaziq/gyawun/latest?style=flat" alt="Commits since latest release" /></a>
